@@ -16,7 +16,7 @@ You may also see any lint errors in the console.
 
 ### Available in Vercel
 
-Domain: https://sidebar-virid.vercel.app/
+Domain: https://sidebar-sefirott.vercel.app/
 
 Done by Fireship's Sidebar tutorial.
 

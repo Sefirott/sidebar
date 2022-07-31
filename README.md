@@ -18,5 +18,5 @@ You may also see any lint errors in the console.
 
 Domain: https://sidebar-sefirott.vercel.app/
 
-Done by Fireship's Sidebar tutorial.
+Done by following Fireship's Sidebar tutorial.
 
